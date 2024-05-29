@@ -133,7 +133,7 @@ bucket_name = "<string>"
 
 配置好后，当推送代码到 master 分支、发起 pull request 或触发 repository dispatch 事件时，GitHub Actions 工作流将会使用这些 Secrets 动态生成 wrangler.toml 配置文件并自动部署您的 Cloudflare Worker。
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/beilunyang/img-mom)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/mouse0232/img-mom)
 
 ## 待办项
 - [ ]  英文文档
