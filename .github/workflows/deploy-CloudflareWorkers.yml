@@ -9,6 +9,7 @@ on:
 jobs:
   deploy_worker:
     runs-on: ubuntu-latest
+    environment: mom
     steps:
       - uses: actions/checkout@v4
       - run: |
