@@ -13,7 +13,7 @@ English . [中文](./README-zh_CN.md)
 </div>
 
 ## Features
-- Built on Cloudflare Workers runtime, lightweight and completely free to us
+- Built on Cloudflare Workers runtime, lightweight and completely free to u
 - Supports multiple image hosting services (Telegram/Cloudflare R2/Backblaze B2, with more coming soon)
 - Quick deployment using Wrangler
 
