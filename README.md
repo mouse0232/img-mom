@@ -27,7 +27,7 @@ English . [中文](./README-zh_CN.md)
 When uploading to additional image hosting services, you can specify a complete URL path (excluding the domain part):
 
 1. Send an image with a caption text to specify the path (e.g., `path/to/image.jpg`)
-2. If the specified path already exists, the bot will ask if you want to overwrite the existing image
+2. If the specified path already exists, the bot will ask if you want to overwre the existing image
 3. You can confirm or cancel the upload
 
 ## Self-Deployment
