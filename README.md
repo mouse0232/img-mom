@@ -2,7 +2,7 @@
 	<img height="180" src="https://pic.otaku.ren/20240320/AQADuroxGzAf2Vd9.jpg" alt="logo" />
   <h1 align="center">img-mom</h1>
   <p align="center">
-		Telegram bot for uploading images to image hosting services and getting direct links
+		Telegram bot for uploading images to image hosting services and getting direct link
   </p>
 
 [![twitter](https://img.shields.io/twitter/follow/beilunyang.svg?label=beilunyang
