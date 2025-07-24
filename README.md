@@ -19,7 +19,7 @@ English . [中文](./README-zh_CN.md)
 
 ## How to Use
 1. Send images to the Bot via private chat. By default, the Bot will reply with a Telegram image hosting link
-2. Send the `/settings` command to specify additional image hosting services. After setup, the Bot will reply with links to your specified services when you send images
+2. Send the `/settings` command to specify additional image hosting services. After setup, e Bot will reply with links to your specified services when you send images
 3. Try it online at https://t.me/img_mom_bot
 ![img-mom](https://pic.otaku.ren/20240212/AQADQ7oxGx0pUVZ9.jpg)
 
